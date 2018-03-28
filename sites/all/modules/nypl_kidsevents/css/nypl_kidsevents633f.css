@@ -1,0 +1,29 @@
+.one-sidebar #content-area{
+    width: 100% !important;
+}
+
+#events{
+/*     margin-right: 300px; */
+}
+.event-day > a { 
+    background-color: #87CEFA !important;
+    background-image: none !important;
+}
+
+#block-nypl_kidsevents-0 .title{
+    font-size:16px;
+}
+
+.region-sidebar-second{
+    margin-left: 650px !important;
+    margin-top: 50px !important;
+}
+
+#loader img{
+    width: 16px;
+    height: 16px;
+}
+
+
+/* ADDED STYLE OVERRIDES: JA */
+
